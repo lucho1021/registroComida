@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780150799416",
+    "project_id": "comidas-5731c",
+    "storage_bucket": "comidas-5731c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780150799416:android:24d65a820f429ecdccfacd",
+        "android_client_info": {
+          "package_name": "com.example.registrocomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780150799416-v0ea9rdm8ph3t4l5phr3v055ui77d3f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wkA3PBXrL7xjkiJwn2vEU4j7ANIScJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780150799416-v0ea9rdm8ph3t4l5phr3v055ui77d3f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
